@@ -1,0 +1,22 @@
+.scroll-box {
+  overflow-y: scroll;
+  border: 1px solid black;
+}
+
+@media screen and (min-width: 500px) {
+  .scroll-box {
+    height: 500px;
+  }
+}
+
+@media screen and (min-width: 767px) {
+  .scroll-box {
+    height: 800px;
+  }
+}
+
+@media screen and (min-width: 1180px) {
+  .scroll-box {
+    height: 960px;
+  }
+}
