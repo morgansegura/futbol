@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/futbol/static/css/main.b46bd67e.chunk.css",
+    "main.js": "/futbol/static/js/main.af14e924.chunk.js",
+    "main.js.map": "/futbol/static/js/main.af14e924.chunk.js.map",
+    "runtime~main.js": "/futbol/static/js/runtime~main.aad00cea.js",
+    "runtime~main.js.map": "/futbol/static/js/runtime~main.aad00cea.js.map",
+    "static/css/2.e40df323.chunk.css": "/futbol/static/css/2.e40df323.chunk.css",
+    "static/js/2.151dce15.chunk.js": "/futbol/static/js/2.151dce15.chunk.js",
+    "static/js/2.151dce15.chunk.js.map": "/futbol/static/js/2.151dce15.chunk.js.map",
+    "index.html": "/futbol/index.html",
+    "precache-manifest.b339ad93556c2833613ae9985515d9f1.js": "/futbol/precache-manifest.b339ad93556c2833613ae9985515d9f1.js",
+    "service-worker.js": "/futbol/service-worker.js",
+    "static/css/2.e40df323.chunk.css.map": "/futbol/static/css/2.e40df323.chunk.css.map",
+    "static/css/main.b46bd67e.chunk.css.map": "/futbol/static/css/main.b46bd67e.chunk.css.map",
+    "static/media/App.css": "/futbol/static/media/SEGA.12a3db8b.woff"
+  }
+}
