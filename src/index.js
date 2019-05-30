@@ -8,7 +8,7 @@ import { searchRobots, requestRobots } from "./reducers";
 import App from "./containers/App";
 import "tachyons";
 import "./index.css";
-// import * as serviceWorker from "./serviceWorker";
+import * as serviceWorker from "./serviceWorker";
 
 const logger = createLogger();
 const rootReducer = combineReducers({ searchRobots, requestRobots });

@@ -1,5 +1,5 @@
 {
-  "name": "robofriends",
+  "name": "futbol",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,7 @@
     "redux": "^4.0.1",
     "tachyons": "4.10.0"
   },
-  "homepage": "https://morgansegura.github.io/robofriends",
+  "homepage": "https://morgansegura.github.io/futbol",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
